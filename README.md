@@ -1,2 +1,7 @@
-# V9-Cli
-轻量级脚手架
+cli create <appName>
+
+git config --global user.name "xxx"
+git config --global user.email "xxx@xx.com"
+
+git config --global credential.helper store
+git pull
