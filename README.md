@@ -1,7 +1,9 @@
-cli create <appName>
+# 前端脚手架
 
-git config --global user.name "xxx"
-git config --global user.email "xxx@xx.com"
+脚手架v9-cli源码
 
-git config --global credential.helper store
-git pull
+# 使用方法
+
+npm i -g v9-cli
+
+cli create xxxx
